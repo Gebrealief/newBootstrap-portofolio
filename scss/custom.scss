@@ -1,0 +1,90 @@
+$body-bg: black;
+$body-text: white;
+$primary: white;
+$font-family-san-serif: 'Comfortaa', san-serif;
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.navbar-collapse{
+    justify-content: flex-end;
+}
+@media (min-width: 992px){ 
+    .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+}
+}
+
+.profile{
+    height: 300px;
+    color: white;
+    
+}
+.navbar-brand:hover{
+    opacity: 0.8;
+}
+
+.custombg{
+    background: black;
+    background-size: cover;
+}
+.greeting{
+    color: whitesmoke;
+    background-color: #FE007B;
+}
+.card{
+    border: none;
+    background-color: black;
+}
+.card-body{
+    background-color: black;
+    color: white;
+}
+.card-img, card-img-top{
+object-fit: cover;
+aspect-ratio: 1/.7;
+}
+.formClass{
+    width: 50%;
+}
+.footerContainer{
+    width: auto;
+    max-width: 680px;
+    padding: 0 15px;
+    height: 300px;
+}
+
+
+.logoimage {
+    animation: MoveUpDown 7s  infinite;
+    position:relative;
+    left: 0;
+    bottom: 0;
+  }
+  
+  @keyframes MoveUpDown {
+    0%, 100% {
+      
+      left: 0;
+      bottom:0px;
+    }
+    50% {
+       
+      left: 150px;
+      bottom: 0px;
+    }
+  }
+
+  .page-footer{
+      background-color: rgb(254, 0, 123);
+  }
+.title{
+    font-weight: bolder;
+    font-size: 50px;
+}
+.name{
+    color: rgb(254, 0, 123);
+}
+
+.footerimages{
+    height: 40px;;
+}
