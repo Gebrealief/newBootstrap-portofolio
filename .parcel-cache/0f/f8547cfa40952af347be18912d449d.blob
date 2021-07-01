@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+  <head>
+      <title>Hewan Geb | Front-end developer</title>
+    
+      <link rel="apple-touch-icon" sizes="57x57" href="134813485a1d9a3e92d969e599b87b07">
+<link rel="apple-touch-icon" sizes="60x60" href="2087a9a40213e99875342ed44731de77">
+<link rel="apple-touch-icon" sizes="72x72" href="94cad54c3b8650a867a24a98726ea094">
+<link rel="apple-touch-icon" sizes="76x76" href="aa3fc2dbf363b593996c000f90ec6454">
+<link rel="apple-touch-icon" sizes="114x114" href="b9e0efd8af49e0c42fa841ab25de4737">
+<link rel="apple-touch-icon" sizes="120x120" href="46f8996fd81d61b882dc61f97f4e3b8f">
+<link rel="apple-touch-icon" sizes="144x144" href="98b8a4fc7e351ff460b4941e2f83e21b">
+<link rel="apple-touch-icon" sizes="152x152" href="28c72e3a6eff010bbdac0f3b386141ce">
+<link rel="apple-touch-icon" sizes="180x180" href="789c31cf02675836ac39b2e7bad55985">
+<link rel="icon" type="image/png" sizes="192x192" href="a927550536f684914bdbf70c40bf3a8d">
+<link rel="icon" type="image/png" sizes="32x32" href="baa786a3f978a9f7a5789853de64da3f">
+<link rel="icon" type="image/png" sizes="96x96" href="9f0fb609a618fd90fec8d0c3ce6765bf">
+<link rel="icon" type="image/png" sizes="16x16" href="a0b51fe5ba19e5f8c44998d15fde2b06">
+<link rel="manifest" href="5024f2728c1140103fb72ed08d43525b">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="8a1bacf0a056b2b51700aeaac45c3f2e">
+<meta name="theme-color" content="#ffffff">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="123043f581504df373d69b895d13e293">
+    <link href="de01306356f995c9bfc3640838b0f736" rel="stylesheet">
+    <link rel="stylesheet" href="de8deb403ee3957b33ea533bbc89709d">
+  </head>
+  <body>
+    <div class="container ">
+        <nav class="navbar navbar-expand-lg navbar-dark">
+            <div class="container-fluid ">
+              <a class="navbar-brand fw-bold text-primary" href="e439615849a560a6cd043b497741bef7">
+                  <img class="img-fluid profile logoimage" src="276426477f57681ca401649ef64f7f7a" alt="profile picture">
+                  
+              </a>
+              <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <div class="collapse navbar-collapse " id="navbarNavDropdown">
+                <ul class="navbar-nav">
+                  <li class="nav-item">
+                    <a class="nav-link active fw-bold " aria-current="page" href="#">Home</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link fw-bold " href="916bf057f1c805d0851356c31394a704">About Me</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link fw-bold " href="#">Resume</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link fw-bold " href="6689a74568a59da0b33a7b77121e4aea">contact</a>
+                  </li>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle fw-bold " href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Projects
+                    </a>
+                    <ul class="dropdown-menu " aria-labelledby="navbarDropdownMenuLink">
+                      <li><a class="dropdown-item fw-bold " href="#">Bootstrap</a></li>
+                      <li><a class="dropdown-item fw-bold " href="#">Figma</a></li>
+                      <li><a class="dropdown-item fw-bold " href="#">Javascript</a></li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </nav>
+      </div> 
+      <div class="container-fluid custombg">
+         <div class="container topcontainer">
+       
+
+
+          <div class="card mb-3">
+            <div class="row g-0 centeredprofile">
+              <div class="col-md-4 " style="71fd5efa48f1e050beaa05e574a57944">
+                <img src="f8e85af363ba99a67b9d389f37be0cef" class="card-img-top" alt="...">
+              </div>
+              <div class="col-md-6">
+                <div class="card-body">
+                  <h5 class="card-title title"><span class="name">Hi! </span>&#x1f44b; I am <span class="name">Hewan.</span></h5>
+                  <p class="card-text">A full stack web developer with five years expiriance as a full stack JAVA/J2EE developer and front-end developmet.
+                    I am currently interested in learning more about front-end development. Mostly <strong>Javascript, Angular , Html, css, bootstrap </strong>and design tools like <strong>figma.</strong>
+                                      </p>
+                  <a href="3d8a8aee7697a28e6e6fa92982d88ab3" class="btn btn-primary mb1 bg-red">More about me</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+         </div>
+         
+      </div>
+      <div class="container pt-3">
+          <div class="row mt-5">
+              <div class="col-sm ">
+                  <div class="card">
+                      <img src="9802cacb7c334658e9436c0bbd8dca7c" class="card-img-top" alt="html/css">
+                      <div class="card-body p-4 rounded-bottom">
+                          <h5 class="card-title fw-bold">Fun with html and css </h5>
+                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                          <a href="#" class="btn btn-primary">Read more</a>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-sm ">
+                <div class="card">
+                    <img src="04b284c3b794164bb15bbe7903a93d42" class="card-img-top" alt="html/css">
+                    <div class="card-body p-4 rounded-bottom">
+                        <h5 class="card-title fw-bold">Fun with Bootstrap 5</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Read more</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm ">
+                <div class="card">
+                    <img src="462aacaa33c80e0fa05b6578d58443f3" class="card-img-top" alt="html/css">
+                    <div class="card-body p-4 rounded-bottom">
+                        <h5 class="card-title fw-bold">Fun with Javascript</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Read more</a>
+                    </div>
+                </div>
+            </div>
+          </div>
+   
+         
+      </div>
+      <footer class="page-footer">
+        <div class="container ">
+            <div class="row">
+                <div class="col-lg-8 col-md-8 col-sm-12 pt-5">
+                    <h6 class="text-uppercase font-weight-bold ">Additional Information</h6>
+                    <p>I am currently looking for a new position as a fullstack developer so please do contact me
+                      if you have any open positions in your company you need to fill with a passionat hard working 
+                      employee.I look forward to speaking with you!
+                    </p>
+                    <p> PS: I will responde imeaditly to those who try to contact me.</p>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-12 pt-5">
+                <p>Don't be shy contact me:</p>
+                <img src="fb82ddfb7f2887c45f4ec37087a91fe6" alt="" class="footerimages"> 
+                <img src="ccb2ce11c0dab1e76548731e8489789e" alt="" class="footerimages">
+            </div>
+            <p id="top">
+              <a class="scroll" href="#">To the top</a>
+              <a id="scrollUp" href="#" style="298135919ae9f488d83bf3cdd7da6ab7">Scroll to top</a>
+            </p>
+        <div>
+        <hr>
+        <div class="footer-copyright text-center">© 2021 HEWAN GEBRESLASSIE. ALL RIGHTS RESERVED</div>
+    </div></div></div></footer>
+    <script src="e7b5ff0c3e32451012cab9f1d6067a93"></script>
+  </body>
+</html>

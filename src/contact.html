@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <title>Hewan Geb | Front-end developer</title>
+  <head>
+      <title>Hewan Geb | Front-end developer</title>
     
-    <link rel="apple-touch-icon" sizes="57x57" href="favicon/apple-icon-57x57.png">
+      <link rel="apple-touch-icon" sizes="57x57" href="favicon/apple-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="favicon/apple-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="favicon/apple-icon-72x72.png">
 <link rel="apple-touch-icon" sizes="76x76" href="favicon/apple-icon-76x76.png">
@@ -20,17 +20,54 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="favicon/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact</title>
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="../scss/custom.scss">
-</head>
-<body>
+  </head>
+  <body>
+  <div class="container ">
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container-fluid ">
+          <a class="navbar-brand fw-bold text-primary" href="index.html">
+              <img class="img-fluid profile logoimage" src="../assets/logohewan.png" alt="profile picture">
+              
+          </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse " id="navbarNavDropdown">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active fw-bold " aria-current="page" href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link fw-bold " href="../src/aboutme.html">About Me</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link fw-bold " href="#">Resume</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link fw-bold " href="contact.html">contact</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle fw-bold " href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Projects
+                </a>
+                <ul class="dropdown-menu " aria-labelledby="navbarDropdownMenuLink">
+                  <li><a class="dropdown-item fw-bold " href="#">Bootstrap</a></li>
+                  <li><a class="dropdown-item fw-bold " href="#">Figma</a></li>
+                  <li><a class="dropdown-item fw-bold " href="#">Javascript</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+  </div> 
+
     <div class="greeting container-fluid formClass">
     <div class="mb-3 mt-5 pt-5">
         <h4>Thank you for taking the time to contact me.</h4>
@@ -49,5 +86,29 @@
         
       </div>
     </div>
+
+    <footer class="page-footer">
+      <div class="container ">
+          <div class="row">
+              <div class="col-lg-8 col-md-8 col-sm-12 pt-5">
+                  <h6 class="text-uppercase font-weight-bold ">Additional Information</h6>
+                  <p>I am currently looking for a new position as a fullstack developer so please do contact me
+                    if you have any open positions in your company you need to fill with a passionat hard working 
+                    employee.I look forward to speaking with you!
+                  </p>
+                  <p> PS: I will responde imeaditly to those who try to contact me.</p>
+          </div>
+          <div class="col-lg-4 col-md-4 col-sm-12 pt-5">
+              <p>Don't be shy contact me:</p>
+              <img src="../assets/github-removebg-preview.png" alt="" class="footerimages"> 
+              <img src="../assets/in-removebg-preview.png" alt="" class="footerimages">
+          </div>
+          <p id="top">
+            <a class="scroll" href="#">To the top</a>
+          </p>
+      <div>
+      <hr>
+      <div class="footer-copyright text-center">© 2021 HEWAN GEBRESLASSIE. ALL RIGHTS RESERVED</div>
+  </footer>
 </body>
 </html>

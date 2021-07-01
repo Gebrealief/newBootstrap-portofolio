@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en">
+  <head>
+      <title>Hewan Geb | Front-end developer</title>
+    
+      <link rel="apple-touch-icon" sizes="57x57" href="61ac17ebc4ab7bf0725b208d16040a8f">
+<link rel="apple-touch-icon" sizes="60x60" href="6165b463167988d099b3607ce251e79d">
+<link rel="apple-touch-icon" sizes="72x72" href="90b8fea85b3f8533a0587d6c04ed9c3d">
+<link rel="apple-touch-icon" sizes="76x76" href="04af0be5444b16d467986c7a00248004">
+<link rel="apple-touch-icon" sizes="114x114" href="8beacc4692078d39d105e6813ce97539">
+<link rel="apple-touch-icon" sizes="120x120" href="7e0ba05259a3363a6dac535ebf5cf18e">
+<link rel="apple-touch-icon" sizes="144x144" href="0b6be47a69b5704d20c678e799202074">
+<link rel="apple-touch-icon" sizes="152x152" href="408c047f3810d727f947be9e7034ed75">
+<link rel="apple-touch-icon" sizes="180x180" href="2ec3ae204e2304fb71fc7d0dbe194025">
+<link rel="icon" type="image/png" sizes="192x192" href="6338040b1d00e6cd3eb9bf7705a46623">
+<link rel="icon" type="image/png" sizes="32x32" href="f96ed68bdd4e1f8a0b44dd2036cc48d4">
+<link rel="icon" type="image/png" sizes="96x96" href="204a9364d6a3e81bccdd664a08b61a45">
+<link rel="icon" type="image/png" sizes="16x16" href="36e7fe62299fe73568ad4e0a5fe83fc8">
+<link rel="manifest" href="9f9e2fc970fc0fe1eb9f74ba038b518a">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="7b8e62dde91c86eb7434bee671ff2bb0">
+<meta name="theme-color" content="#ffffff">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="1e9489040eecd98d15edcd149d0a95cc">
+    <link href="f21667659f236a3b10af3653a42d9f5c" rel="stylesheet">
+    <link rel="stylesheet" href="d066f4b2a4d94123d50bd96c492adc97">
+  </head>
+  <body>
+  <div class="container ">
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container-fluid ">
+          <a class="navbar-brand fw-bold text-primary" href="0a32abffac4614c1d38c655043a163e6">
+              <img class="img-fluid profile logoimage" src="092b98bce3b9fcb7800b72109c7d334a" alt="profile picture">
+              
+          </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse " id="navbarNavDropdown">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active fw-bold " aria-current="page" href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link fw-bold " href="3fd7ec4c57103aa75a22d9a9c30056ae">About Me</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link fw-bold " href="#">Resume</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link fw-bold " href="72c6aa0b041b4273d31d7fe368ef5f64">contact</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle fw-bold " href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Projects
+                </a>
+                <ul class="dropdown-menu " aria-labelledby="navbarDropdownMenuLink">
+                  <li><a class="dropdown-item fw-bold " href="#">Bootstrap</a></li>
+                  <li><a class="dropdown-item fw-bold " href="#">Figma</a></li>
+                  <li><a class="dropdown-item fw-bold " href="#">Javascript</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+  </div> 
+  
+  <div class="container-fluid custombg">
+    <div class="container topcontainer">
+  
+
+
+     <div class="card mb-3">
+       <div class="row g-0 centeredprofile">
+         <div class="col-md-4 " style="8ee50763fea084e0aae255543838a944">
+           <img src="1fca24f6bcc2d35b8411bcdb2e6f30bc" class="card-img-top" alt="...">
+         </div>
+         <div class="col-md-6">
+           <div class="card-body">
+             <h5 class="card-title title"><span class="name">Hi! </span>&#x1f44b; I am <span class="name">Hewan.</span></h5>
+             <p class="card-text">A full stack web developer with five years expiriance as a full stack JAVA/J2EE developer and front-end developmet.
+               I am currently interested in learning more about front-end development. Mostly <strong>Javascript, Angular , Html, css, bootstrap </strong>and design tools like <strong>figma.</strong>
+                                 </p>
+             <a href="3e58e8b174823022a3c2f06f1b20bb8e" class="btn btn-primary mb1 bg-red">More about me</a>
+           </div>
+         </div>
+       </div>
+     </div>
+     
+    </div>
+    
+ </div>
+ <footer class="page-footer">
+  <div class="container ">
+      <div class="row">
+          <div class="col-lg-8 col-md-8 col-sm-12 pt-5">
+              <h6 class="text-uppercase font-weight-bold ">Additional Information</h6>
+              <p>I am currently looking for a new position as a fullstack developer so please do contact me
+                if you have any open positions in your company you need to fill with a passionat hard working 
+                employee.I look forward to speaking with you!
+              </p>
+              <p> PS: I will responde imeaditly to those who try to contact me.</p>
+      </div>
+      <div class="col-lg-4 col-md-4 col-sm-12 pt-5">
+          <p>Don't be shy contact me:</p>
+          <img src="f402166061810bb2d2e302d2166518d8" alt="" class="footerimages"> 
+          <img src="1294fcb11dc7740744451bb39b886ab5" alt="" class="footerimages">
+      </div>
+      <p id="top">
+        <a class="scroll" href="#">To the top</a>
+      </p>
+  <div>
+  <hr>
+  <div class="footer-copyright text-center">© 2021 HEWAN GEBRESLASSIE. ALL RIGHTS RESERVED</div>
+</div></div></div></footer> 
+</body>
+</html>

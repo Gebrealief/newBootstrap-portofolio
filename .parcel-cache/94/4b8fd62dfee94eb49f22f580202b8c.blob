@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+  <head>
+      <title>Hewan Geb | Front-end developer</title>
+    
+      <link rel="apple-touch-icon" sizes="57x57" href="22442992de8c9e831681cf2419cb5129">
+<link rel="apple-touch-icon" sizes="60x60" href="39f62d923e4d30264729c8e0b0256d3d">
+<link rel="apple-touch-icon" sizes="72x72" href="ff7ddcad2990e4e52d3889d7c26fdb49">
+<link rel="apple-touch-icon" sizes="76x76" href="788798ff0c19c8c4eadb3c96aa0e10ab">
+<link rel="apple-touch-icon" sizes="114x114" href="7ccc8ab81071cc390a8eb94cdb08c823">
+<link rel="apple-touch-icon" sizes="120x120" href="effcf4785cae3c44b2f03588d6c29266">
+<link rel="apple-touch-icon" sizes="144x144" href="5fdde80316c72e3fe7d30bf62758a8be">
+<link rel="apple-touch-icon" sizes="152x152" href="5c7403593833d42d2e5c1456ee9abeca">
+<link rel="apple-touch-icon" sizes="180x180" href="aa28d357341144c84c282b0178327836">
+<link rel="icon" type="image/png" sizes="192x192" href="a311a0bb9ff0ce417862413336fabf63">
+<link rel="icon" type="image/png" sizes="32x32" href="2f64e2ce75644bd574dfbc5bb5c91982">
+<link rel="icon" type="image/png" sizes="96x96" href="e8f6c741f6318b4a1a88371d964a16b2">
+<link rel="icon" type="image/png" sizes="16x16" href="917f1eabe34834f843c3b5c2aed79137">
+<link rel="manifest" href="39cbadbd13114b0ee4dbba14ac56c962">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="d33268a4964f0914107d6f4be8eeae9a">
+<meta name="theme-color" content="#ffffff">
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="6d5df7f4a68db25a7f29a65992d63913">
+    <link href="3796aa008d8702e49a40ab206679b622" rel="stylesheet">
+    <link rel="stylesheet" href="7a40fec44f8d914a5137e05bc598ac06">
+  </head>
+  <body>
+  <div class="container ">
+    <nav class="navbar navbar-expand-lg navbar-dark">
+        <div class="container-fluid ">
+          <a class="navbar-brand fw-bold text-primary" href="f982dbf32a4c681b69964d5bf817f69b">
+              <img class="img-fluid profile logoimage" src="3217c3919987ae32086b1b4303a35059" alt="profile picture">
+              
+          </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse " id="navbarNavDropdown">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active fw-bold " aria-current="page" href="#">Home</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link fw-bold " href="2030d0cd60943d335fe28e18c8de6a2e">About Me</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link fw-bold " href="#">Resume</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link fw-bold " href="e4a408eadf9d15a39d5184a2b2de6fe9">contact</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle fw-bold " href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Projects
+                </a>
+                <ul class="dropdown-menu " aria-labelledby="navbarDropdownMenuLink">
+                  <li><a class="dropdown-item fw-bold " href="#">Bootstrap</a></li>
+                  <li><a class="dropdown-item fw-bold " href="#">Figma</a></li>
+                  <li><a class="dropdown-item fw-bold " href="#">Javascript</a></li>
+                </ul>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+  </div> 
+
+    <div class="greeting container-fluid formClass">
+    <div class="mb-3 mt-5 pt-5">
+        <h4>Thank you for taking the time to contact me.</h4>
+        <h4>What can I help you? </h4>
+        <label for="exampleFormControlInput1" class="form-label">Email:</label>
+        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+      </div>
+      <div class="mb-3">
+        <label for="exampleFormControlTextarea1" class="form-label">Message:</label>
+        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+        <button type="button" class="btn btn-success mt-5">Send</button>
+      </div>
+      <div class="mb-3">
+        <h5>More contact options </h5>
+        
+        
+      </div>
+    </div>
+
+    <footer class="page-footer">
+      <div class="container ">
+          <div class="row">
+              <div class="col-lg-8 col-md-8 col-sm-12 pt-5">
+                  <h6 class="text-uppercase font-weight-bold ">Additional Information</h6>
+                  <p>I am currently looking for a new position as a fullstack developer so please do contact me
+                    if you have any open positions in your company you need to fill with a passionat hard working 
+                    employee.I look forward to speaking with you!
+                  </p>
+                  <p> PS: I will responde imeaditly to those who try to contact me.</p>
+          </div>
+          <div class="col-lg-4 col-md-4 col-sm-12 pt-5">
+              <p>Don't be shy contact me:</p>
+              <img src="e7002cd6794deeb34a81cc107e38691b" alt="" class="footerimages"> 
+              <img src="26a3014d4e0bc5a3fb3f4f62b4945ef0" alt="" class="footerimages">
+          </div>
+          <p id="top">
+            <a class="scroll" href="#">To the top</a>
+          </p>
+      <div>
+      <hr>
+      <div class="footer-copyright text-center">© 2021 HEWAN GEBRESLASSIE. ALL RIGHTS RESERVED</div>
+  </div></div></div></footer>
+</body>
+</html>
